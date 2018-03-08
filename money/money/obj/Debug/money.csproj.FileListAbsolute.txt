@@ -1,0 +1,6 @@
+C:\test\money\money\money\bin\Debug\money.exe.config
+C:\test\money\money\money\bin\Debug\money.exe
+C:\test\money\money\money\bin\Debug\money.pdb
+C:\test\money\money\money\obj\Debug\money.csprojResolveAssemblyReference.cache
+C:\test\money\money\money\obj\Debug\money.exe
+C:\test\money\money\money\obj\Debug\money.pdb
